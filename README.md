@@ -83,7 +83,6 @@ Unauthorized guest access was successfully blocked.
 - Packet Tracer topology
 - Technical report
 - Security screenshots
-- Presentation slides
 
 ---
 
